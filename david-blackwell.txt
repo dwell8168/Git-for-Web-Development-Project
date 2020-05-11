@@ -1,3 +1,5 @@
+https://codepen.io/dblack8168/pen/rNaZgvv?editors=1100
+
 https://codepen.io/dblack8168/pen/WNQJmyY?editors=1100
 
     1. What is Semantic HTML? 
@@ -74,7 +76,7 @@ https://codepen.io/dblack8168/pen/WNQJmyY?editors=1100
     37. Walk me through Lambda's git flow. 
       - Fork
       - Clone
-      - cd to your Lambda folder.
+      - cd to your Lambda folder
       - git clone https://url
       - cd into the newly cloned repo
       - git checkout -b 'david-blackwell'
@@ -82,3 +84,4 @@ https://codepen.io/dblack8168/pen/WNQJmyY?editors=1100
       - git add .
       - git commit -m "commit message"
       - git push origin 'david-blackwell'
+
